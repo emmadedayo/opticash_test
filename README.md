@@ -1,16 +1,12 @@
 # opticash
 
-A new Flutter project.
+Opticash Assessment Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was written in flutter bloc architecture
 
-A few resources to get you started if this is your first Flutter project:
+## Design Link
+https://www.figma.com/file/MXG8vM1CjWd4Zghf67BYD9/Mobile-flutter-design-task?type=design&node-id=2-2163&mode=design&t=ZthKEv9AgcOvNSrx-0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Link
